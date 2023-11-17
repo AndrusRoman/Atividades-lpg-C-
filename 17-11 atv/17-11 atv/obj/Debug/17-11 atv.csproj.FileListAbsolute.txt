@@ -1,0 +1,18 @@
+D:\Andrus\17-11 atv\17-11 atv\bin\Debug\17-11 atv.exe.config
+D:\Andrus\17-11 atv\17-11 atv\bin\Debug\17-11 atv.exe
+D:\Andrus\17-11 atv\17-11 atv\bin\Debug\17-11 atv.pdb
+D:\Andrus\17-11 atv\17-11 atv\bin\Debug\MySql.Data.dll
+D:\Andrus\17-11 atv\17-11 atv\bin\Debug\System.Memory.dll
+D:\Andrus\17-11 atv\17-11 atv\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Andrus\17-11 atv\17-11 atv\bin\Debug\System.Numerics.Vectors.dll
+D:\Andrus\17-11 atv\17-11 atv\bin\Debug\System.Buffers.dll
+D:\Andrus\17-11 atv\17-11 atv\bin\Debug\MySql.Data.xml
+D:\Andrus\17-11 atv\17-11 atv\obj\Debug\17-11 atv.csproj.AssemblyReference.cache
+D:\Andrus\17-11 atv\17-11 atv\obj\Debug\17-11 atv.csproj.SuggestedBindingRedirects.cache
+D:\Andrus\17-11 atv\17-11 atv\obj\Debug\_17_11_atv.Form1.resources
+D:\Andrus\17-11 atv\17-11 atv\obj\Debug\_17_11_atv.Properties.Resources.resources
+D:\Andrus\17-11 atv\17-11 atv\obj\Debug\17-11 atv.csproj.GenerateResource.cache
+D:\Andrus\17-11 atv\17-11 atv\obj\Debug\17-11 atv.csproj.CoreCompileInputs.cache
+D:\Andrus\17-11 atv\17-11 atv\obj\Debug\17-11 atv.csproj.CopyComplete
+D:\Andrus\17-11 atv\17-11 atv\obj\Debug\17-11 atv.exe
+D:\Andrus\17-11 atv\17-11 atv\obj\Debug\17-11 atv.pdb
